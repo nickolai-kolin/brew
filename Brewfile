@@ -17,4 +17,5 @@ cask "zoomus"
 cask "iterm2"
 cask "flux"
 cask "agenda"
-caks "punto-switcher"
+caks "punto-switcher" # from yandex.ru
+cask "toggl-track"
